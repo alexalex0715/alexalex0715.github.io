@@ -1,0 +1,9 @@
+title: My Blog
+theme: minima
+
+header_pages:
+  - about.md
+  - it-support/index.md
+  - cloud-devops/index.md
+  - bodybuilding/index.md
+  - journey/index.md
