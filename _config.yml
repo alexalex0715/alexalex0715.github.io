@@ -1,6 +1,5 @@
 title: Alex Blog
 
-*/theme/*
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
