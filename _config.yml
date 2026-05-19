@@ -1,5 +1,4 @@
 title: Alex Blog
-description: IT, Cloud, Fitness Journey
 
 remote_theme: "mmistakes/minimal-mistakes"
 
@@ -8,33 +7,5 @@ plugins:
 
 minimal_mistakes_skin: "default"
 
-markdown: kramdown
-
-kramdown:
-  input: GFM
-
-paginate: 5
-paginate_path: /page:num/
-
-minimal_mistakes_skin: "default"
-
-title: Alex Blog
-
 author:
   name: Alex
-
-nav:
-  - title: "About"
-    url: /about/
-
-  - title: "IT Support"
-    url: /it-support/
-
-  - title: "Cloud"
-    url: /cloud-devops/
-
-  - title: "Bodybuilding"
-    url: /bodybuilding/
-
-  - title: "Journey"
-    url: /journey/
