@@ -1,10 +1,11 @@
 ---
+layout: single
 title: About
 permalink: /about/
+author_profile: true
 ---
 
 # About Me
 
-I am learning IT Support and building toward Cloud/DevOps engineer career.
-
-I also track fitness and discipline here.
+IT Support → Cloud Engineer path  
+Fitness discipline + learning journey
