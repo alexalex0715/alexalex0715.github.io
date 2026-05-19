@@ -5,7 +5,7 @@ title: Home
 # 👋 Hey guys
 
 Welcome to my weekly blog.
-i will update on every Sunday.
+I will update on every Sunday.
 
 ## I will focus on :
 
