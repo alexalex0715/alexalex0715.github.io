@@ -4,16 +4,8 @@ title: Home
 author_profile: true
 ---
 
-# 👋 Hey guys
+Welcome to my blog 😎🚀
 
-Welcome to my weekly blog.
-I will update on every Sunday.
-
-## I will focus on :
-
-- IT Support
-- Cloud & DevOps
-- Bodybuilding
-- Journey
-
-Alright, enjoy it.
+- IT Support learning
+- Cloud & DevOps path
+- Fitness tracking
