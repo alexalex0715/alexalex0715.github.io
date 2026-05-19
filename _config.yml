@@ -16,7 +16,7 @@ paginate_path: /page:num/
 
 minimal_mistakes_skin: "default"
 
-title: My Blog
+title: Alex Blog
 
 author:
   name: Alex
