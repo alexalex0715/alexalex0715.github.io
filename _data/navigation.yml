@@ -1,0 +1,18 @@
+main:
+  - title: "Dashboard"
+    url: /
+
+  - title: "About"
+    url: /about/
+
+  - title: "IT Support"
+    url: /it-support/
+
+  - title: "Cloud & DevOps"
+    url: /cloud-devops/
+
+  - title: "Bodybuilding"
+    url: /bodybuilding/
+
+  - title: "Journey"
+    url: /journey/
