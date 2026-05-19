@@ -11,3 +11,23 @@ author:
   name: Alex
   bio: Ripped Cloud DevOps
   avatar:  /images/profile.jpg
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/alexalex0715"
+
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/alexalex0715"
+
+    - label: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://instagram.com/alexalex0715"
+
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:alexalex15072001@gmail.com"
+      
+    - label: "X (Twitter)"
+      icon: "fab fa-x-twitter"
+      url: "https://x.com/alexalex0715"
