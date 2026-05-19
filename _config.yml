@@ -7,6 +7,14 @@ plugins:
 
 minimal_mistakes_skin: "default"
 
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+paginate: 5
+paginate_path: /page:num/
+
 header_pages:
   - about.md
   - it-support/index.md
