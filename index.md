@@ -4,13 +4,14 @@ title: Home
 
 # 👋 Hey guys
 
-Welcome to my personal blog.
+Welcome to my weekly blog.
+i will update on every Sunday.
 
-## I will focus on... :
+## I will focus on :
 
 - IT Support
 - Cloud & DevOps
 - Bodybuilding
 - Journey
 
-Alright I hope you enjoy :)
+Alright, enjoy it.
