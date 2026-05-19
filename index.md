@@ -1,14 +1,16 @@
 ---
-title: Dashboard
+title: Home
 ---
 
-# 👋 My Dashboard
+# 👋 Hey guys
 
 Welcome to my personal blog.
 
-## My sections:
+## I will focus on... :
 
 - IT Support
 - Cloud & DevOps
 - Bodybuilding
 - Journey
+
+Alright I hope you enjoy :)
